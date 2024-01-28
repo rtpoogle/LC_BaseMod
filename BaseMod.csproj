@@ -60,4 +60,5 @@
     <Error Condition="!Exists('packages\krafs.publicizer\2.2.1\build\Krafs.Publicizer.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\krafs.publicizer\2.2.1\build\Krafs.Publicizer.targets'))" />
   </Target>
   <Import Project="packages\krafs.publicizer\2.2.1\build\Krafs.Publicizer.targets" Condition="Exists('packages\krafs.publicizer\2.2.1\build\Krafs.Publicizer.targets')" />
- </Project>
+  <Import Project="reference.targets" />
+</Project>
