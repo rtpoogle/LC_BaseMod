@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ClassLibrary1")]
+[assembly: AssemblyProduct("BaseMod")]
 [assembly: AssemblyCopyright("Copyright © RTPoogle 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
