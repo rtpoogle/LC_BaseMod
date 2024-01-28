@@ -2,7 +2,7 @@
 using HarmonyLib;
 using BepInEx.Logging;
 
-namespace FacilityMeltdownPatch
+namespace BaseMod
 {
     [BepInPlugin(GUID, NAME, VER)]
     //[BepInDependency(modGUID)]
